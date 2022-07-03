@@ -1,3 +1,6 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![JCS-ELPA](https://raw.githubusercontent.com/jcs-emacs/badges/master/elpa/v/company-cmd.svg)](https://jcs-emacs.github.io/jcs-elpa/#/company-cmd)
+
 # company-cmd - company backend for cmd/batch
 
 *Author:* Noah Peart<br>
