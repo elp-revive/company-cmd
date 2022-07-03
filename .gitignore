@@ -1,7 +1,17 @@
+# ignore these directories
+/.git
+/recipes
+
+# ignore generated files
 *.elc
-*~
-.#*
-/.cask
-loaddefs.el
-*.html 
-*autoloads.el
+
+# eask packages
+.eask/
+dist/
+
+# packaging
+*-autoloads.el
+*-pkg.el
+
+# ignore data files
+*.dat
