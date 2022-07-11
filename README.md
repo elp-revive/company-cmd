@@ -3,8 +3,11 @@
 
 # company-cmd - company backend for cmd/batch
 
-*Author:* Noah Peart<br>
-*URL:* [https://github.com/nverno/company-cmd](https://github.com/nverno/company-cmd)<br>
+* *Author:* Noah Peart
+* *Maintainer:* Jen-Chieh Shen
+* *URL:* [https://github.com/nverno/company-cmd](https://github.com/nverno/company-cmd)
+
+[![CI](https://github.com/elp-revive/company-cmd/actions/workflows/test.yml/badge.svg)](https://github.com/elp-revive/company-cmd/actions/workflows/test.yml)
 
 Simple company-mode completion backend for windows batch/dos scripting modes.
 Offers completion for 80-90 basic commands returned by 'help'.
@@ -17,6 +20,6 @@ Add to a suitable location on the `load-path` and either require or autoload
 See: [cmd-mode](http://github.com/nverno/cmd-mode) for combining with
 completion-at-point (not provided in base `bat-mode`).
 
-
 ---
+
 Converted from `company-cmd.el` by [*el2markdown*](https://github.com/Lindydancer/el2markdown).
