@@ -8,6 +8,7 @@
 (package-file "company-cmd.el")
 
 (source "gnu")
+(source "melpa")
 
 (depends-on "emacs" "26.1")
 (depends-on "company")
